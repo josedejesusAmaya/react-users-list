@@ -1,0 +1,10 @@
+.new-user button {
+    font: inherit;
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    border: 1px solid #282c34;
+    background-color: #282c34;
+    color: #ffffff;
+    border-radius: 12px;
+    font-weight: bold;
+}

@@ -1,0 +1,7 @@
+.user__item {
+    background-color: crimson;
+    padding: 1rem 0;
+    margin: 0.5rem 0;
+    font-weight: bold;
+    cursor: pointer;
+}

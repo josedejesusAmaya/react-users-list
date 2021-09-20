@@ -1,0 +1,10 @@
+.users-list-fallback {
+    color: white;
+    text-align: center;
+    margin: 0.5rem 0;
+}
+
+.users-list {
+    list-style: none;
+    width: 36%;
+}
